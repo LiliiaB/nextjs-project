@@ -1,5 +1,5 @@
 {
-  "name": "crm",
+  "name": "nextjsapp",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -30,5 +30,17 @@
     "prettier": "^3.1.1",
     "tailwindcss": "^3.3.5",
     "typescript": "^5"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiliiaB/nextjs-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiliiaB/nextjs-project/issues"
+  },
+  "homepage": "https://github.com/LiliiaB/nextjs-project#readme"
 }
